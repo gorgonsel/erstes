@@ -1,8 +1,8 @@
 public static f1() {
 	www
-	f2();
+	neuerName();
 }
-public static f2() {
+public static neuerName() {
 	www
 }
 public static f3() {
