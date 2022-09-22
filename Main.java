@@ -6,5 +6,6 @@ public static f2() {
 	www
 }
 public static f3() {
-	www
+	aaa
+	bbb
 }
